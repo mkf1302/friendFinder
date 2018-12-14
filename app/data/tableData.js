@@ -1,14 +1,13 @@
 // ===============================================================================
 // DATA
-// Below data will hold all of the reserved tables.
-// Initially we just set it equal to a "dummy" customer.
-// But you could have it be an empty array as well.
+// Below data will hold all of the friend matches.
+// Need to figure out how to change the file name without affecting the routes.
 // ===============================================================================
 
 var tableArray = [
   {
-    Name: "Ahmed",
-    Photo: "ahmed@example.com",
+    Name: "Big Fudge",
+    Photo: "https://i.imgflip.com/1gwwtf.jpg",
     Scores: [6,4,8,3,1,8,7,6,1,8]
     
   }
